@@ -37,13 +37,11 @@ Dewey](https://pbs.twimg.com/media/Be-noQVIQAA1BfZ?format=jpg&name=small)
  
 # Experiment 2: [Guided and unguided concepts]()
 
-Groups of medical students given Instructor notes, guided+unguided
-
-- [Guided notes increase exam scores](https://www.tandfonline.com/doi/pdf/10.2147/AMEP.S172345)
-- [Too much instructor guidance can decrease
-  scores](https://journals.sagepub.com/doi/pdf/10.1080/00986280701818466?casa_token=xjMx9U6_soYAAAAA:XOK_FqNKZ0V2Oxc-QIkDmSy-zFcqt6aPsjsyutYBWm_6hbb6LyitXCFCJDW78iKnXBC4rJqxqKs)
-
-Students needed to build personal connections to material
+- Groups of medical students given Instructor notes, guided+unguided
+  - [Guided notes increase exam scores](https://www.tandfonline.com/doi/pdf/10.2147/AMEP.S172345)
+  - [Too much instructor guidance can decrease
+    scores](https://journals.sagepub.com/doi/pdf/10.1080/00986280701818466?casa_token=xjMx9U6_soYAAAAA:XOK_FqNKZ0V2Oxc-QIkDmSy-zFcqt6aPsjsyutYBWm_6hbb6LyitXCFCJDW78iKnXBC4rJqxqKs)
+- Students needed to build personal connections to material
    
 # Building lived experience connections
 
@@ -78,26 +76,8 @@ successful careers.](./nace_visual.png)
 # Result: Students connect learning to skills
 
 
-On
-average, students identified 5-6 career competencies that they practiced
-during studying, projects, and homeworks. 
-
-I do not directly assess
-leadership and its not directly covered by ABET student outcomes, but
-26% of students still connected this career competency to the course as
-seen in Fig. [1](#career_comps){reference-type="ref"
-reference="career_comps"}. Fig. [1](#career_comps){reference-type="ref"
-reference="career_comps"} demonstrates that students were able to
-connect c
-
-ourse content to their experiences in preparing for engineering
-careers. In Table [2](#table_M){reference-type="ref"
-reference="table_M"}, students shared anecdotes of specific skills they
-used. 
-
-The majority of students mentioned improving critical thinking
-through "problem solving" and teamwork/communication in "working with
-others to improve assignments", 25% and 27% respectively.
+- students identified 5-6 career competencies in assignmennts 
+- 26% of students still connected leadership to course  experience
 
 <figure id="career_comps">
 <div class="center">
